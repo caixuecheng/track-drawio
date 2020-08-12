@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T11:11:04.342Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0pnpkGXZSzk_0JgwUJu-" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-12T11:13:16.401Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="ITAJzFEy-VFHH3-Tbd9P" version="13.6.2" type="github">
   <diagram id="qM7zH2VK6SOklaK1zIwN" name="第 1 页">
-    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wTuEOeGn5ab0nwvOv3BD-26" value="&lt;span&gt;权限管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="wTuEOeGn5ab0nwvOv3BD-26" value="&lt;span&gt;权限管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wTuEOeGn5ab0nwvOv3BD-27" value="企业管理（后台）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
